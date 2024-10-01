@@ -154,7 +154,26 @@ void printWave(int arr[][4] , int row , int col) {
 /* ispiral print importent question */
 
 void isPiral(int arr[][4] , int row , int col) {
-    cout << " hello " ;
+  int count= 0 ;
+  int total = row * col ;
+   
+//     index initialisation 
+int startingRow = 0 ;
+int startingCol = 0 ;
+int endingRow = row - 1 ;
+int endingCOl = col - 1 ;
+     while (count < total ) 
+     {
+        // printing starting row 
+        for (int  i = startingCol; i < endingCOl; i++)
+        {
+             
+
+        }
+        
+
+     }
+     
 }
 
 
@@ -178,11 +197,15 @@ int main()
     {
         cout << " not found : " << endl;
     }
-
+/*
     printColSum(arr, 3, 4);
 
     largestRowSum(arr, 3, 4);
 
     printWave(arr, 3, 4) ;
+    */
+
+
+   isPiral(arr , 3, 4) ;
     return 0;
 }
