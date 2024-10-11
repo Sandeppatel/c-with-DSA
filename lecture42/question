@@ -1,0 +1,24 @@
+=== class ? =====
+===== object ?====
+1. data member
+2. behavior/funcation
+
+=== Acccess Modifire ? ====
+1. public
+2. private
+3. protective
+====== static/ Dynamic allocation ? ==========
+======= constructure =======
+1. simple constructure 
+2. paramitrizd constructure 
+3. copy constructure
+4. default constructure
+
+===== copy assingment opreter 
+==== distructure =======
+1. static 
+2. Dynamic 
+===== deep copy and shollow copy =====
+==== static data member and funcation ==========
+h/w
+const funcation / inilization list 
