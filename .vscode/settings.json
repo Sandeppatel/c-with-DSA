@@ -59,6 +59,7 @@
   "files.associations": {
     "functional": "cpp",
     "iostream": "cpp",
-    "type_traits": "cpp"
+    "type_traits": "cpp",
+    "ostream": "cpp"
   }
 }
