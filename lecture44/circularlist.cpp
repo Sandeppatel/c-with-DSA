@@ -118,5 +118,9 @@ void deleteNode(Node* &tail , int value) {
    deleteNode(tail ,3);
    print(tail);
    
+   deleteNode(tail ,3);
+   print(tail);
+   
+   
     return 0;
  }
